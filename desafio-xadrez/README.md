@@ -25,7 +25,7 @@ cd trabalhos-faculdade
 
 3 - Compile o código
 ```
-gcc desafio-xadrez.c -o desafio-xadez 
+gcc desafio-xadrez.c -o desafio-xadrez 
 ```
 
 4 - Execute o programa
