@@ -11,8 +11,8 @@ O jogador pode escolher três níveis:
 ## Tecnologias Utilizadas
 - Linguagem C
 - Estruturas de repetição
-- Funções aninhadas
 - Condicionais
+- Funções
 
 ## Atributos da Carta
 - Estado
@@ -21,6 +21,36 @@ O jogador pode escolher três níveis:
 - População
 - Área
 - PIB (em bilhões)
-- Números de Pontos Turísticos
+- Número de Pontos Turísticos
 
 ## Como utilizar
+
+1 - Clone o projeto
+```
+git clone https://github.com/brunofs-dev/trabalhos-faculdade/
+```
+
+2 - Acesse a pasta do projeto
+```
+cd trabalhos-faculdade
+```
+
+3 - Compile o código
+```
+gcc desafio-super-trunfo.c -o desafio-super-trunfo
+```
+
+4 - Execute o programa
+
+Linux/macOS
+```
+./desafio-super-trunfo
+```
+
+Windows
+```
+desafio-super-trunfo.exe
+```
+
+## Autor
+Bruno Ferreira
